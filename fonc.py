@@ -43,5 +43,6 @@ def racine_carree(nombre):
 
     return estimation
 
+#le package ne veut pas fonctionner, obliger de le faire ainsi
 
 
